@@ -1,2 +1,2 @@
 This is our second file.
-
+Changes to this file by branch1.
